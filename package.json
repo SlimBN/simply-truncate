@@ -1,0 +1,22 @@
+{
+  "name": "simply-truncate",
+  "version": "1.0.0",
+  "description": "truncate a string with a custom suffix, it does only that, and it does it well",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SlimBN/simply-truncate.git"
+  },
+  "keywords": [
+    "truncate"
+  ],
+  "author": "Slim Ben Nasrallah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SlimBN/simply-truncate/issues"
+  },
+  "homepage": "https://github.com/SlimBN/simply-truncate#readme"
+}
